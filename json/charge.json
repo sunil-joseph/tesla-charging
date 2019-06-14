@@ -1,0 +1,37 @@
+[
+    {
+        "dayOfWeek": 0,
+        "hour": 14,
+        "chargeState": "stop"
+    },
+    {
+        "dayOfWeek": 1,
+        "hour": 6,
+        "chargeState": "stop"
+    },
+    {
+        "dayOfWeek": 2,
+        "hour": 6,
+        "chargeState": "stop"
+    },
+    {
+        "dayOfWeek": 3,
+        "hour": 6,
+        "chargeState": "stop"
+    },
+    {
+        "dayOfWeek": 4,
+        "hour": 6,
+        "chargeState": "stop"
+    },
+    {
+        "dayOfWeek": 5,
+        "hour": 6,
+        "chargeState": "stop"
+    },
+    {
+        "dayOfWeek": 6,
+        "hour": 14,
+        "chargeState": "stop"
+    }
+]
